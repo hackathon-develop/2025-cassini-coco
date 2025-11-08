@@ -56,5 +56,59 @@
 - https://github.com/arribada/argos-smd-at-kineis-firmware
   - STM32WL firmware for SMD module with Kineis stack 
 
+
+## work on hw
+
+~~~
+System - Booting...
+BMP280 - Sensor initialized!
+Failed to set system conf reg 
+
+Kineis - Powering up Kineis Satellite Connectivity Module...
+Kineis - Success! Module is connected. Reading configuration...
+Kineis - Module ID: +ID=2656ff2
+
+Kineis - Module Firmware: +FW=KIM1_V2.1
+
+Kineis - Setting frame format...
+Kineis - Frame Format: +OK
+
+Kineis - Transmission Power: +PWR=1000
+
+System - Kineis and Peripherals initialization done.
+System - Reading sensor data...
+DHT20 - Temperature: 13.50Â°C
+DHT20 - Humidity: 50%
+BMP280 - Pressure: 1011mbar
+Light Sensor - Value: 124/255
+Sound Sensor - Value: 50/255
+Potentiometer - Value: 41/255
+Kineis - Powering on KIM1 and attempting to send payload: 45053200F3037C32290000000000000000000000000000
+Kineis - Payload sent!
+Kineis - Powering off KIM1 Module.
+System - Reading sensor data...
+DHT20 - Temperature: 11.34Â°C
+DHT20 - Humidity: 56%
+BMP280 - Pressure: 1012mbar
+Light Sensor - Value: 90/255
+Sound Sensor - Value: 98/255
+Potentiometer - Value: 41/255
+Kineis - Powering on KIM1 and attempting to send payload: 6D043800F4035A62290000000000000000000000000000
+Kineis - Payload sent!
+Kineis - Powering off KIM1 Module.
+System - Reading sensor data...
+DHT20 - Temperature: 10.39Â°C
+DHT20 - Humidity: 61%
+BMP280 - Pressure: 1012mbar
+Light Sensor - Value: 73/255
+Sound Sensor - Value: 55/255
+Potentiometer - Value: 41/255
+Kineis - Powering on KIM1 and attempting to send payload: 0E043D00F4034937290000000000000000000000000000
+Kineis - Payload sent!
+Kineis - Powering off KIM1 Module.
+...
+~~~
+
 # cassini data
 - https://www.copernicus.eu/en/access-data/dias
+
