@@ -37,24 +37,34 @@
 
 - https://github.com/allthingstalk/cassini-hackathons/blob/main/README.md
 
-- https://vimeo.com/1129563480?share=copy&fl=sv&fe=ci
-- https://vimeo.com/1133126550?share=copy&fl=sv&fe=ci
+- https://vimeo.com/1129563480
+- https://vimeo.com/1133126550
 
 
--  Monika.Velkova: Please, check out the guides on the technical integration  and onboarding
+- Please, check out the guides on the technical integration and onboarding
   - arduino.pdf
   - Kinéis x 10th Hackaton-presentation.pdf
   - Guide KINEIS_ATT.pdf
   - 1658413291767-KINEIS-NT-19-0018 Kim1 Integration Manual v2.3.pdf
 
+- https://www.facebook.com/KineisIoT/videos/7614962535221582/
+  - groundstation setup 
+
+### other hw / seed 
+
+- https://wiki.seeedstudio.com/Grove_System/
+
+- https://wiki.seeedstudio.com/Grove-Beginner-Kit-For-Arduino/
+
 ### other sites
-- https://wildlabs.net/discussion/new-open-source-kineis-transmitter-eu50
-  - board announcement
-
-- https://github.com/johnstaveley/Satellite
-
 - https://github.com/arribada/argos-smd-at-kineis-firmware
   - STM32WL firmware for SMD module with Kineis stack 
+
+- https://wildlabs.net/discussion/new-open-source-kineis-transmitter-eu50
+  - board anouncement
+
+- https://github.com/johnstaveley/Satellite
+  - old project / old hw
 
 
 ## work on hw
@@ -109,6 +119,13 @@ Kineis - Powering off KIM1 Module.
 ...
 ~~~
 
+## backend
+- https://verhaert.allthingstalk.com/ground/MDFvUfzFryN5gEIRhXXREcdR/devices
+  - https://verhaert.allthingstalk.com/ground/MDFvUfzFryN5gEIRhXXREcdR/device/dtzbCv3C8NGu6VHFksclohuJ
+    - hackathon_bln_kit_216655
+  - https://verhaert.allthingstalk.com/ground/MDFvUfzFryN5gEIRhXXREcdR/device/BFeblcH2btP4dKH9Fa23HRSE
+    - hackathon_bln_kit_216863
+    
 # cassini data
 - https://www.copernicus.eu/en/access-data/dias
 
