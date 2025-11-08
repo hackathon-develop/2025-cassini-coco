@@ -47,5 +47,14 @@
   - Guide KINEIS_ATT.pdf
   - 1658413291767-KINEIS-NT-19-0018 Kim1 Integration Manual v2.3.pdf
 
+### other sites
+- https://wildlabs.net/discussion/new-open-source-kineis-transmitter-eu50
+  - board announcement
+
+- https://github.com/johnstaveley/Satellite
+
+- https://github.com/arribada/argos-smd-at-kineis-firmware
+  - STM32WL firmware for SMD module with Kineis stack 
+
 # cassini data
 - https://www.copernicus.eu/en/access-data/dias
